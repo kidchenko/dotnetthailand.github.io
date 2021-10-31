@@ -60,12 +60,18 @@ sidebar:
       title: ':blue_book: Programming cookbook'
 
     - order: 7
-      path: /to-other-languages
-      title: ':bicyclist: To other languages'
+      path: /talks
+      title: ':loudspeaker: .NET Thailand Talks'
 
     - order: 8
       path: /awesome-dotnet-thailand-projects
       title: ':package: Awesome .NET Thailand Projects'
+
+    - order: 9
+      path: /to-other-languages
+      title: ':bicyclist: To other languages'
+
+
 
   links:
     - text: .NET Thailand
