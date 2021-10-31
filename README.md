@@ -10,14 +10,20 @@
 See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ## How to run this project locally
-- Install `Yarn` and `Gatsby` as a global tool.
+- Install `Yarn`.
 - Clone the repository to your local machine.
 - CD to the root of project folder.
 - Install all dependencies.
+
+## Running on localhost
+
+- To install the dependencies you need to run:
+
 ```
 $ yarn
 ```
-- Run a project and enable hot-reload.
+- If is the first time you are installing the dependencies it may take few minutes, get a coffee and relax ;)
+- To run the project with hot-reload enabled you can.
 ```
 yarn start
 ```
